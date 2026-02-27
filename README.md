@@ -87,26 +87,6 @@ python trainclaw.py transfer -f 深圳 -t 拉萨 -m 西安 -d 2026-03-04
 
 可组合使用，如 `--type GD` 表示高铁+动车。
 
-## 测试
-
-```bash
-pytest tests/ -v
-```
-
-**测试统计**: 96 个测试全部通过
-
-| 测试文件 | 测试数量 | 测试内容 |
-|----------|----------|----------|
-| `test_version.py` | 3 | 版本一致性 |
-| `test_config.py` | 8 | 配置完整性（含 QUERY_COOLDOWN） |
-| `test_parsing.py` | 21 | 数据解析逻辑（含空结果提示） |
-| `test_filter.py` | 20 | 筛选排序逻辑 |
-| `test_station.py` | 14 | 车站解析（含 suggest_stations、错误建议） |
-| `test_cli.py` | 8 | CLI 参数解析（含 --verbose） |
-| `test_integration.py` | 15 | Mock 集成测试（query/route/transfer 端到端） |
-| **合计** | **96** (原 69 + 新增 27) | |
-
-
 ## 版本
 
 **当前版本**: 0.0.3
