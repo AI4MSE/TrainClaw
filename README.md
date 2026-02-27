@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/AI4MSE/TrainClaw/blob/master/LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-AI4MSE%2FTrainClaw-black.svg)](https://github.com/AI4MSE/TrainClaw)
 
-12306 中国铁路火车票 CLI 查询工具 — 查询余票、经停站、中转方案。
+铁路火车票 CLI 查询工具 — 查询余票、经停站、中转方案。
 
 
 ## 功能
