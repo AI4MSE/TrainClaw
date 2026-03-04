@@ -10,6 +10,7 @@ License: Apache-2.0
 本工具仅供学习和交流之用，使用时请遵守当地法律和法规。
 This tool is for educational and research purposes only.
 Please comply with local laws and regulations when using it.
+Email:nuaa02@gmail.com 
 """
 
 # =============================================================================
