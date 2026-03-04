@@ -5,6 +5,7 @@ TrainClaw - 车票查询AI助手 Train Ticket CLI Tool
 
 GitHub: https://github.com/AI4MSE/TrainClaw
 License: Apache-2.0
+Email:nuaa02@gmail.com 
 
 免责声明 / Disclaimer:
 本工具仅供学习和交流之用，使用时请遵守当地法律和法规。
