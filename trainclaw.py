@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-TrainClaw - 车票查询AI助手 Train Ticket CLI Tool
-单文件 CLI 工具，查询中国铁路余票、经停站、中转信息。
+TrainClaw 🚄 - 车票查询AI助手 / China Rail Ticket Query
+三合一 12306 查询：余票 + 经停站 + 中转换乘，零登录
+3-in-1 China 12306 query: tickets + route stops + transfer plans, zero login.**
 
 GitHub: https://github.com/AI4MSE/TrainClaw
 License: Apache-2.0
-Email:nuaa02@gmail.com 
 
 免责声明 / Disclaimer:
 本工具仅供学习和交流之用，使用时请遵守当地法律和法规。
@@ -17,7 +17,15 @@ Usage:
     python trainclaw.py route -c G1033 -d 2026-03-04
     python trainclaw.py transfer -f 深圳 -t 拉萨 -m 西安 -d 2026-03-04
 
-Version: 0.0.3
+Version: 0.0.6
+
+作者 / Author
+
+公益技能，免费开源。 / Community-driven, open-source, free for everyone.
+
+- **Email**: nuaa02@gmail.com
+- **小红书 / Xiaohongshu**: @深度连接
+- **GitHub**: [AI4MSE/TrainClaw](https://github.com/AI4MSE/TrainClaw)
 """
 
 import argparse

@@ -1,4 +1,8 @@
 """
+TrainClaw 🚄 - 车票查询AI助手 / China Rail Ticket Query
+三合一 12306 查询：余票 + 经停站 + 中转换乘，零登录
+3-in-1 China 12306 query: tickets + route stops + transfer plans, zero login.**
+
 TrainClaw Configuration / 配置文件
 All constants and default values for the China train ticket CLI tool.
 所有常量和默认值，车票查询AI助手 CLI 工具。
@@ -10,7 +14,14 @@ License: Apache-2.0
 本工具仅供学习和交流之用，使用时请遵守当地法律和法规。
 This tool is for educational and research purposes only.
 Please comply with local laws and regulations when using it.
-Email:nuaa02@gmail.com 
+
+作者 / Author
+
+公益技能，免费开源。 / Community-driven, open-source, free for everyone.
+
+- **Email**: nuaa02@gmail.com
+- **小红书 / Xiaohongshu**: @深度连接
+- **GitHub**: [AI4MSE/TrainClaw](https://github.com/AI4MSE/TrainClaw)
 """
 
 # =============================================================================
