@@ -1,6 +1,6 @@
 ---
 name: trainclaw
-description: 3-in-1 China 12306 query: tickets + route stops + transfer plans, zero login. Filter 高铁/动车/火车 by type, time, duration. Pure Python, text/json/csv output. Use for 火车票/余票/经停站/中转换乘.
+description: 3-in-1 China 12306 query tickets + route stops + transfer plans, zero login. Filter 高铁/动车/火车 by type, time, duration. Pure Python, text/json/csv output. Use for 火车票/余票/经停站/中转换乘.
 version: 0.0.6
 icon: 🚄
 ---
