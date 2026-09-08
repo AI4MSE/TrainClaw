@@ -180,6 +180,4 @@ User: "How to get from Beijing to Chengdu by train?"
 
 Community-driven, open-source skill — free for everyone.
 
-- **Email**: nuaa02@gmail.com
-- **Xiaohongshu (小红书)**: @深度连接
 - **GitHub**: [AI4MSE/TrainClaw](https://github.com/AI4MSE/TrainClaw)
