@@ -185,6 +185,4 @@ G25 | 北京南→上海虹桥 | 17:00→21:18 | 04:18 | 商务座:1张/2318.0�
 
 公益技能，免费开源。 / Community-driven, open-source, free for everyone.
 
-- **Email**: nuaa02@gmail.com
-- **小红书 / Xiaohongshu**: @深度连接
 - **GitHub**: [AI4MSE/TrainClaw](https://github.com/AI4MSE/TrainClaw)
