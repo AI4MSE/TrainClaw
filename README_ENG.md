@@ -147,8 +147,6 @@ This tool is for educational and technical research purposes only. Not recommend
 
 This is a community-driven, open-source skill — free for everyone.
 
-- **Email**: nuaa02@gmail.com
-- **Xiaohongshu (小红书)**: @深度连接
 - **GitHub**: [AI4MSE/TrainClaw](https://github.com/AI4MSE/TrainClaw)
 
 ## License
